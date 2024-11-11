@@ -124,7 +124,8 @@ while (1)
 ## Output screen shots on serial monitor   :
  
  
- ![Screenshot (112)](https://github.com/user-attachments/assets/c317c58c-7e64-4e36-8166-77c5ccf9c054)
+![Screenshot (117)](https://github.com/user-attachments/assets/af8bba67-1d78-40ee-bfe9-250774580079)
+
 
  
 ## Result :
